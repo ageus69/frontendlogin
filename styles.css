@@ -43,6 +43,7 @@ body {
 
 .form01 .input-element input {
   border-radius: 0.5em;
+  background-color: rgb(207,207,207)
 }
 
 .form01 .input-element button {
